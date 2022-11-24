@@ -17,5 +17,6 @@ The targetd group to group members transfer software
 * Version: 1.7v
 * price : 30$ 
 * Add by id or Username
+* Message sender
 * Scraper filter UserStatusRecently or all
 * Telethon or Pyrogram
