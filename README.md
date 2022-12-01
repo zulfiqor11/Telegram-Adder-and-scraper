@@ -7,6 +7,7 @@ The targetd group to group members transfer software
 # Contact Developer
 
 * Telegram @ALPHA_UZS
+* Channel https://t.me/ALPHA_DVR
 * WHATSAPP +998911560757
 
 # Features
@@ -19,4 +20,4 @@ The targetd group to group members transfer software
 * Add by id or Username
 * Message sender
 * Scraper filter UserStatusRecently or all
-* Telethon or Pyrogram
+* Telethon or Pyrogram.
